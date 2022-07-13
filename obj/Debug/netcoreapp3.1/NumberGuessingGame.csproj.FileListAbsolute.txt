@@ -1,0 +1,14 @@
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.exe
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.deps.json
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.json
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.dev.json
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.dll
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.pdb
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.csproj.AssemblyReference.cache
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfoInputs.cache
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfo.cs
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.csproj.CoreCompileInputs.cache
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.dll
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.pdb
+D:\week1\Calculator\SimpleCalculator\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.genruntimeconfig.cache
